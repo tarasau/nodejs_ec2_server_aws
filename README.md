@@ -117,8 +117,8 @@ sudo git pull
 ```
 Useful links
 Here links which you may also need:\
-1)https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node-on-ec2-instance.html\
-2)https://sumantmishra.medium.com/how-to-deploy-node-js-app-on-aws-with-github-db99758294f1\
+1)https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node-on-ec2-instance.html
+2)https://sumantmishra.medium.com/how-to-deploy-node-js-app-on-aws-with-github-db99758294f1
 
 
 [ec2]: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html
